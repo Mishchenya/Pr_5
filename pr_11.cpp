@@ -6,6 +6,8 @@
 using namespace std;
 int main()
 {
+	int l=0,t,y;
+	cin >> t<<endl;
 	SetConsoleCP(1251);
 	SetConsoleOutputCP(1251);
 	char s1[100];
@@ -29,7 +31,7 @@ int main()
 						break;
 					}
 				cout << s1[i];
-
+ 
 				}
 
 			}
