@@ -5,7 +5,8 @@
 #include <cstdlib>
 using namespace std;
 int main()
-{
+{   int l=0,t,s;
+	cin >> t>>endl;
 	SetConsoleCP(1251);
 	SetConsoleOutputCP(1251);
 	char s1[100];
